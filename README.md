@@ -1,0 +1,117 @@
+# awesome-pl-kor
+
+## Books
+
+* <a href="https://www.yes24.com/Product/Goods/122890814">타입으로 견고하게 다형성으로 유연하게</a> - 홍재민 (2023)
+* <a href="https://www.yes24.com/Product/Goods/11775130">해커와 화가</a> - Paul Graham (2014)
+* <a href="https://www.yes24.com/Product/Goods/8305856">프로그래밍언어론</a> - Robert W. Sebesta (2012)
+* <a href="https://www.yes24.com/Product/Goods/97518038">프로그래밍언어론 원리와 실제</a> - 창병모 (2021)
+* <a href="https://www.yes24.com/Product/Goods/117380668">프로그래밍언어론</a> - 안기영, 손범준 (2023)
+* <a href="https://www.yes24.com/Product/Goods/4744920">프로그래밍 언어 개념</a> - 원유헌 (2011)
+* <a href="https://www.yes24.com/Product/Goods/2867564">프로그래밍 언어론 원리+유형</a> - Allen B. Tucker, Robert E. Noonan (2008)
+* <a href="https://www.yes24.com/Product/Goods/29029252">함수형 사고</a> - Neal Ford (2016)
+* <a href="https://www.yes24.com/Product/Goods/124767865">함수형 프로그래밍</a> - Jack Widman (2024)
+* <a href="https://www.yes24.com/Product/Goods/108748841">쏙쏙 들어오는 함수형 코딩</a> - Eric Normand (2022)
+* <a href="https://www.yes24.com/Product/Goods/56885507">함수형 자바스크립트 프로그래밍</a> - 유인동 (2017)
+* <a href="https://www.yes24.com/Product/Goods/58181696">함수형 자바스크립트</a> - Luis Atencio (2018)
+* <a href="https://www.yes24.com/Product/Goods/77125987">모던 자바 인 액션</a> - Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft (2019)
+* <a href="https://www.yes24.com/Product/Goods/125593970">함수형 프로그래밍 with 자바</a> - Ben Weidig (2024)
+* <a href="https://www.yes24.com/Product/Goods/84899008">코틀린으로 배우는 함수형 프로그래밍</a> - 조재용, 우명인 (2019)
+* <a href="https://www.yes24.com/Product/Goods/120236288">코틀린 함수형 프로그래밍</a> - Marco Vermeulen, Paul Chiusano, Runar Bjarnason (2023)
+* <a href="https://www.yes24.com/Product/Goods/16969986">스칼라로 배우는 함수형 프로그래밍</a> - Paul Chiusano, Runar Bjarnason (2015)
+* <a href="https://www.yes24.com/Product/Goods/96640057">Programming in Scala 4/e</a> - Martin Odersky (2021)
+* <a href="https://www.yes24.com/Product/Goods/12155304">가장 쉬운 하스켈 책</a> - Miran Lipovača (2014)
+* <a href="https://www.yes24.com/Product/Goods/3479645">하스켈로 배우는 프로그래밍</a> - Graham Hutton (2009)
+* <a href="https://www.yes24.com/Product/Goods/77275593">Functional Programming in C++</a> - Ivan Čukić (2019)
+* <a href="https://www.yes24.com/Product/Goods/59384637">모던 C++로 배우는 함수형 프로그래밍</a> - Wisnu Anggoro (2018)
+* <a href="https://www.yes24.com/Product/Goods/69669484">Functional C#</a> - Wisnu Anggoro (2019)
+* <a href="https://www.yes24.com/Product/Goods/4853907">프로그램 디자인, 어떻게 할 것인가</a> (<a href="https://htdp.org/">HTDP</a>) - Matthias Felleisen (2011)
+* <a href="https://www.yes24.com/Product/Goods/23951885">컴퓨터 프로그램의 구조와 해석</a> (<a href="https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html">SICP</a>) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (2016)
+* <a href="https://www.yes24.com/Product/Goods/116469364">자바스크립트로 배우는 SICP</a> - Harold Abelson, Gerald Jay Sussman, Martin Henz, Tobias Wrigstad, Julie Sussman (2022)
+* <a href="https://www.yes24.com/Product/Goods/108025068">처음 배우는 엘릭서 프로그래밍</a> - Dave Thomas (2022)
+* <a href="https://www.yes24.com/Product/Goods/5968810">만들면서 배우는 리스프 프로그래밍</a> - Conrad Barski (2011)
+* <a href="https://www.yes24.com/Product/Goods/25537884">클로저 시작하기</a> - Carin Meier (2016)
+* <a href="https://www.yes24.com/Product/Goods/3907543">프로그래밍 클로저</a> - Stuart Halloway (2010)
+* <a href="https://www.yes24.com/Product/Goods/24555451">클로저 프로그래밍의 즐거움</a> - Michael Fogus, Chris Houser (2016)
+* <a href="https://www.yes24.com/Product/Goods/30669163">누구나 쉽게 배우는 클로저</a> - Daniel Higginbotham (2016)
+
+## Documents
+
+* <a href="https://prl.korea.ac.kr/courses/cose212/2023/pl-book.pdf">프로그래밍 언어의 원리</a> - 오학주 (2022)
+* <a href="http://kwangkeunyi.snu.ac.kr/4190.310/11/pl-book-draft.pdf">SNU 4190.310 Programming Languages Lecture Notes</a> - 이광근 (2008)
+* <a href="https://hjaem.info/itpl">Introduction to Programming Languages (ITPL)</a> - 홍재민 (2023)
+    * [프로그래밍 언어](https://hjaem.info/articles/kr_1_4) - [archive](https://web.archive.org/web/20240329004224/https://hjaem.info/articles/kr_1_4)
+    * [Scala 소개](https://hjaem.info/articles/kr_2_4) - [archive](https://web.archive.org/web/20240329004317/https://hjaem.info/articles/kr_2_4)
+    * [함수형 프로그래밍 입문](https://hjaem.info/articles/kr_3_3) - [archive](https://web.archive.org/web/20240329004404/https://hjaem.info/articles/kr_3_3)
+    * [일급 함수](https://hjaem.info/articles/kr_4_8) - [archive](https://web.archive.org/web/20240329004540/https://hjaem.info/articles/kr_4_8)
+    * [Scala 컬렉션 사용하기](https://hjaem.info/articles/kr_5_2) - [archive](https://web.archive.org/web/20240329004541/https://hjaem.info/articles/kr_5_2)
+    * [패턴 대조](https://hjaem.info/articles/kr_6_3) - [archive](https://web.archive.org/web/20240329004603/https://hjaem.info/articles/kr_6_3)
+    * [문법](https://hjaem.info/articles/kr_7_2) - [archive](https://web.archive.org/web/20240329004722/https://hjaem.info/articles/kr_7_2)
+    * [의미](https://hjaem.info/articles/kr_8_3) - [archive](https://web.archive.org/web/20240329004729/https://hjaem.info/articles/kr_8_3)
+    * [식별자](https://hjaem.info/articles/kr_9_4) - [archive](https://web.archive.org/web/20240329004609/https://hjaem.info/articles/kr_9_4)
+    * [일차 함수](https://hjaem.info/articles/kr_10_8) - [archive](https://web.archive.org/web/20240329004614/https://hjaem.info/articles/kr_10_8)
+    * [클로저](https://hjaem.info/articles/kr_11_7) - [archive](https://web.archive.org/web/20240329004637/https://hjaem.info/articles/kr_11_7)
+    * [람다 대수](https://hjaem.info/articles/kr_12_4) - [archive](https://web.archive.org/web/20240329004810/https://hjaem.info/articles/kr_12_4)
+    * [재귀](https://hjaem.info/articles/kr_13_4) - [archive](https://web.archive.org/web/20240329004839/https://hjaem.info/articles/kr_13_4)
+    * [수정 가능한 상자](https://hjaem.info/articles/kr_14_5) - [archive](https://web.archive.org/web/20240329004920/https://hjaem.info/articles/kr_14_5)
+    * [수정 가능한 변수](https://hjaem.info/articles/kr_15_6) - [archive](https://web.archive.org/web/20240329004925/https://hjaem.info/articles/kr_15_6)
+    * [소극적 계산](https://hjaem.info/articles/kr_16_5) - [archive](https://web.archive.org/web/20240329005006/https://hjaem.info/articles/kr_16_5)
+    * [계속](https://hjaem.info/articles/kr_17_5) - [archive](https://web.archive.org/web/20240329005120/https://hjaem.info/articles/kr_17_5)
+    * [일급 계속](https://hjaem.info/articles/kr_18_5) - [archive](https://web.archive.org/web/20240329005042/https://hjaem.info/articles/kr_18_5)
+    * [타입 체계](https://hjaem.info/articles/kr_19_5) - [archive](https://web.archive.org/web/20240329005138/https://hjaem.info/articles/kr_19_5)
+    * [재귀 함수의 타입](https://hjaem.info/articles/kr_20_4) - [archive](https://web.archive.org/web/20240329005154/https://hjaem.info/articles/kr_20_4)
+    * [대수적 데이터 타입](https://hjaem.info/articles/kr_21_4) - [archive](https://web.archive.org/web/20240329005306/https://hjaem.info/articles/kr_21_4)
+    * [매개변수에 의한 다형성](https://hjaem.info/articles/kr_22_5) - [archive](https://web.archive.org/web/20240329005220/https://hjaem.info/articles/kr_22_5)
+    * [서브타입에 의한 다형성](https://hjaem.info/articles/kr_23_2) - [archive](https://web.archive.org/web/20240329005244/https://hjaem.info/articles/kr_23_2)
+    * [이름 없이 식 표현하기](https://hjaem.info/articles/kr_24_2) - [archive](https://web.archive.org/web/20240329005315/https://hjaem.info/articles/kr_24_2)
+* [프로그래밍 언어의 기본 원리](https://hjaem.info/articles/kr_2000_0) ([archive](https://web.archive.org/web/20240329020210/https://hjaem.info/articles/kr_2000_0)) - 오재민
+    * [서문](https://hjaem.info/articles/kr_2001_0) - [archive](https://web.archive.org/web/20240329020345/https://hjaem.info/articles/kr_2001_0)
+    * [들어가며](https://hjaem.info/articles/kr_2002_3) - [archive](https://web.archive.org/web/20240329020547/https://hjaem.info/articles/kr_2002_3)
+    * [문법과 의미](https://hjaem.info/articles/kr_2003_3) - [archive](https://web.archive.org/web/20240329020636/https://hjaem.info/articles/kr_2003_3)
+    * [구체적 문법](https://hjaem.info/articles/kr_2004_2) - [archive](https://web.archive.org/web/20240329020931/https://hjaem.info/articles/kr_2004_2)
+    * [요약 문법](https://hjaem.info/articles/kr_2005_1) - [archive](https://web.archive.org/web/20240329021035/https://hjaem.info/articles/kr_2005_1)
+    * [의미](https://hjaem.info/articles/kr_2006_2) - [archive](https://web.archive.org/web/20240329021107/https://hjaem.info/articles/kr_2006_2)
+    * [파싱](https://hjaem.info/articles/kr_2007_1) - [archive](https://web.archive.org/web/20240329021137/https://hjaem.info/articles/kr_2007_1)
+    * [문법 설탕](https://hjaem.info/articles/kr_2008_1) - [archive](https://web.archive.org/web/20240329021213/https://hjaem.info/articles/kr_2008_1)
+    * [변수](https://hjaem.info/articles/kr_2009_3) - [archive](https://web.archive.org/web/20240329021242/https://hjaem.info/articles/kr_2009_3)
+    * [묶는 등장](https://hjaem.info/articles/kr_2010_0) - [archive](https://web.archive.org/web/20240329021314/https://hjaem.info/articles/kr_2010_0)
+    * [묶인 등장과 자유 변수](https://hjaem.info/articles/kr_2011_0) - [archive](https://web.archive.org/web/20240329021355/https://hjaem.info/articles/kr_2011_0)
+    * [실행 시간 오류](https://hjaem.info/articles/kr_2012_0) - [archive](https://web.archive.org/web/20240329021425/https://hjaem.info/articles/kr_2012_0)
+    * [영역](https://hjaem.info/articles/kr_2013_1) - [archive](https://web.archive.org/web/20240329021448/https://hjaem.info/articles/kr_2013_1)
+    * [가리기](https://hjaem.info/articles/kr_2014_0) - [archive](https://web.archive.org/web/20240329021620/https://hjaem.info/articles/kr_2014_0)
+    * [현실 세계 언어 파헤치기](https://hjaem.info/articles/kr_2015_0) - [archive](https://web.archive.org/web/20240329021607/https://hjaem.info/articles/kr_2015_0)
+* <a href="https://scalabook.hatemogi.com/intro/scala_for_java.html">Java 개발자를 위한 Scala 맛보기</a> - 김대현 (hatemogi)
+
+## Videos
+
+* <a href="https://www.youtube.com/playlist?list=PLlaaKSQo-dsWtYqmSR237-eXbTrLRoWmQ">프로그래밍언어론</a> - 우균의 풀어그림 (2020)
+* <a href="https://www.youtube.com/playlist?list=PLhbaMvGyp99982CpQoam-z9tqJ6qi_hw0">프로그래밍언어론 (EOPL)</a> - 최광훈
+* <a href="https://www.youtube.com/playlist?list=PLhbaMvGyp99_NphAX7k5OqcM1fXLZne8t">Haskell MOOC</a> - 최광훈
+* <a href="https://www.youtube.com/playlist?list=PLZpTeDBqYB-JWbzL_DkZocLKaSDUraJ4T">Tezos Blockchain Camp - 프로그래밍 원리</a> (2019)
+* <a href="https://www.youtube.com/playlist?list=PLZpTeDBqYB-JalhMRHEEHFq3nQXaUnaI8">Tezos Blockchain Camp - Ocaml 프로그래밍</a> (2019)
+* 프로그래밍의 원리 (서울대학교 2학년 과목, 이광근) - <a href="http://kwangkeunyi.snu.ac.kr/4190.210/mooc/">MOOC</a> (2012), <a href="http://kwangkeunyi.snu.ac.kr/4190.210/13/">Course</a>
+* 프로그래밍언어 (서울대학교 3학년 과목, 이광근) - <a href="http://kwangkeunyi.snu.ac.kr/4190.310/mooc/">MOOC</a> (????), <a href="http://kwangkeunyi.snu.ac.kr/4190.310/24/">Course</a> (2024), <a href="https://ropas.snu.ac.kr/~dreameye/PL/">dreameye</a>
+* <a href="https://youtu.be/H6JxxWL6bJI">라인 백엔드 개발자의 함수형 프로그래밍 언어 실전 사용기 | 라인개발실록</a> - 김대현 (hatemogi)
+* <a href="https://youtu.be/H1izEfbg5QA">함수형 프로그래밍 3대장 경험기: 클로저, 스칼라, 하스켈 | 인프콘2023</a> - 김대현 (hatemogi)
+* <a href="https://www.youtube.com/playlist?list=PLZQAYIhEkMXHPq0bZekOp8oeGZPkqnNWi">모나드의 모든 것 - 1. The "ideal" Monad</a> - 이읗
+* <a href="https://www.youtube.com/playlist?list=PLZQAYIhEkMXFP4TkoVj19rTPNA4rxNII2">모나드의 모든 것 - 2. Monad in mathematics</a> - 이읗
+* <a href="https://youtu.be/jI4aMyqvpfQ">Monad란 무엇인가?</a> - 김동경 (2018)
+* <a href="https://youtu.be/P4-wnlSJD4Q">합성, 커링, 모나드에 대해 훑어보는 함수형 프로그래밍 입문</a> - 저세상개발자
+* <a href="https://www.coursera.org/learn/scala2-functional-programming">Functional Programming Principles in Scala (Scala 2 version)</a> - Martin Odersky
+* <a href="https://www.coursera.org/learn/scala2-functional-program-design">Functional Program Design in Scala (Scala 2 version)</a> - Martin Odersky
+* <a href="https://www.coursera.org/learn/scala2-akka-reactive">Programming Reactive Systems (Scala 2 version)</a> - Martin Odersky
+
+## Article
+
+* <a href="https://ropas.snu.ac.kr/~kwang/paper/position/edu.pdf">프로그래밍 교육에서 실습 언어의 선택</a> - 이광근 (2002)
+* <a href="https://ropas.snu.ac.kr/~kwang/paper/maso/1.pdf">값중심의 프로그래밍 (value-oriented programming)</a> - 이광근 (2002)
+* <a href="http://kwangkeunyi.snu.ac.kr/functional-anger.html">제대로 디자인된 프로그래밍 언어의 쓰임새</a> - 이광근 (2011)
+* <a href="http://kwangkeunyi.snu.ac.kr/functional.html">functional language가 뭐죠?</a> - 이광근 (1999)
+* <a href="https://csrc.kaist.ac.kr/blog/2020/08/12/%EB%B0%94%EC%9D%B4%EB%84%88%EB%A6%AC-%EB%B6%84%EC%84%9D%EC%97%90-%EC%9B%AC-fsharp/">바이너리 분석에 웬 F#?</a> - 차상길 (2020)
+* <a href="https://parksb.github.io/article/40.html">함수형 프로그래밍의 설득력</a> - 박성범 (2022)
+* <a href="https://github.com/parksb/papers-i-love/blob/main/why-functional-programming-matters.md">함수형 프로그래밍이 중요한 이유</a> - John Hughes (1990)
+* <a href="https://lionhairdino.github.io/posts/2021-05-07-chef.html">함수형 시작과 아마도 끝</a>, <a href="https://lionhairdino.github.io/posts/2020-06-18-Celebrity.html">이 바닥 셀럽분들</a>, <a href="https://lionhairdino.github.io/posts/2024-01-27-HaskellBeginner.html">2024년 자료 추천</a> - <a href="https://lionhairdino.github.io/">lionhairdino</a>
+* <a href="https://green-labs.github.io/is-clojure-hard-to-read">클로저(Clojure) 코드는 정말 읽기 어려운가?</a> - 박연오 (2022)
+* <a href="https://bakyeono.net/post/2013-09-28-lisp-books.html">[책소개] 리스프 입문자를 위한 학습서들</a> - 박연오 (2013)
+* <a href="https://sangwoo-joh.github.io/archive?tag=ocaml">Ocaml로 PS 하기</a> - sangwoo-joh
+* <a href="https://en.wikipedia.org/wiki/Functional_programming">Functional programming</a> - wikipedia
