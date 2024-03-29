@@ -125,4 +125,5 @@
 * <a href="https://donghwi.dev/no-dynamic-type-systems-are-not-inherently-more-open/">동적 타입 시스템은 더 개방적인 시스템이 아닙니다</a> - 서동휘 번역 (2020)
 * <a href="https://damhiya.github.io/posts/Functor-and-Variance.html">Functor and variance</a>, <a href="https://damhiya.github.io/posts/Curry's-paradox.html">Curry's paradox</a> - damhiya
 * <a href="https://www.notion.so/andrea9292/Haskell-84c22c4bb40a46438dc6757424827fca">진보하는 함수형 언어, Haskell</a> - 김재우 (2002)
+* <a href="https://johngrib.github.io/wiki/jargon/backus-naur-form/">배커스-나우르 표기법 (Backus-Naur form)</a> - 이종립 (2023)
 * <a href="https://gist.github.com/nattybear/c5e4f24a8242d88cf427568fb7cbe311">박준규님 Gist</a>
