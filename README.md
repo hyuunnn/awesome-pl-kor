@@ -102,7 +102,7 @@
 * <a href="https://www.coursera.org/learn/scala2-functional-program-design">Functional Program Design in Scala (Scala 2 version)</a> - Martin Odersky
 * <a href="https://www.coursera.org/learn/scala2-akka-reactive">Programming Reactive Systems (Scala 2 version)</a> - Martin Odersky
 
-## Article
+## Articles
 
 * <a href="https://ropas.snu.ac.kr/~kwang/paper/position/edu.pdf">프로그래밍 교육에서 실습 언어의 선택</a> - 이광근 (2002)
 * <a href="https://ropas.snu.ac.kr/~kwang/paper/maso/1.pdf">값중심의 프로그래밍 (value-oriented programming)</a> - 이광근 (2002)
