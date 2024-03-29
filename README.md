@@ -83,6 +83,8 @@
 * <a href="https://scalabook.hatemogi.com/intro/scala_for_java.html">Java 개발자를 위한 Scala 맛보기</a> - 김대현 (hatemogi)
 * <a href="https://github.com/Functional-JavaScript/FunctionalES">FunctionalES - ES6+, 함수형 프로그래밍, 비동기, 동시성 프로그래밍</a>
 * <a href="https://www.slideshare.net/namhyeonuk90/pl-1">구문론과 의미론 (정적 의미론까지)</a> - 남현욱 (2014)
+* <a href="https://evan-moon.github.io/2024/01/30/category-theory-for-programmers-0-preface/">프로그래머를 위한 카테고리 이론</a> - 문동욱 번역 (2024)
+* <a href="https://github.com/sudopark/category-theory-for-programmers-study">프로그래머를 위한 카테고리 이론 스터디</a> - 박수도 번역 (2021)
 
 ## Videos
 
@@ -100,10 +102,10 @@
 * <a href="https://www.youtube.com/playlist?list=PLZQAYIhEkMXFP4TkoVj19rTPNA4rxNII2">모나드의 모든 것 - 2. Monad in mathematics</a> - 이읗
 * <a href="https://youtu.be/jI4aMyqvpfQ">Monad란 무엇인가?</a> - 김동경 (2018)
 * <a href="https://youtu.be/P4-wnlSJD4Q">합성, 커링, 모나드에 대해 훑어보는 함수형 프로그래밍 입문</a> - 저세상개발자
+* <a href="https://youtu.be/4sO0aWTd3yc">함수형 프로그래밍과 ES6+</a> - 유인동 (2019)
 * <a href="https://www.coursera.org/learn/scala2-functional-programming">Functional Programming Principles in Scala (Scala 2 version)</a> - Martin Odersky
 * <a href="https://www.coursera.org/learn/scala2-functional-program-design">Functional Program Design in Scala (Scala 2 version)</a> - Martin Odersky
 * <a href="https://www.coursera.org/learn/scala2-akka-reactive">Programming Reactive Systems (Scala 2 version)</a> - Martin Odersky
-* <a href="https://youtu.be/4sO0aWTd3yc">함수형 프로그래밍과 ES6+</a>
 
 ## Articles
 
@@ -118,4 +120,9 @@
 * <a href="https://green-labs.github.io/is-clojure-hard-to-read">클로저(Clojure) 코드는 정말 읽기 어려운가?</a> - 박연오 (2022)
 * <a href="https://bakyeono.net/post/2013-09-28-lisp-books.html">[책소개] 리스프 입문자를 위한 학습서들</a> - 박연오 (2013)
 * <a href="https://sangwoo-joh.github.io/archive?tag=ocaml">Ocaml로 PS 하기</a> - sangwoo-joh
-* <a href="https://en.wikipedia.org/wiki/Functional_programming">Functional programming</a> - wikipedia
+* <a href="https://evan-moon.github.io/2020/01/27/safety-function-composition/">어떻게 하면 안전하게 함수를 합성할 수 있을까?</a> - 문동욱 (2020)
+* <a href="https://eatchangmyeong.github.io/2022/12/04/parse-don-t-validate.html">검증하지 말고 파싱하라</a> - 잇창명 번역 (2022)
+* <a href="https://donghwi.dev/no-dynamic-type-systems-are-not-inherently-more-open/">동적 타입 시스템은 더 개방적인 시스템이 아닙니다</a> - 서동휘 번역 (2020)
+* <a href="https://damhiya.github.io/posts/Functor-and-Variance.html">Functor and variance</a>, <a href="https://damhiya.github.io/posts/Curry's-paradox.html">Curry's paradox</a> - damhiya
+* <a href="https://www.notion.so/andrea9292/Haskell-84c22c4bb40a46438dc6757424827fca">진보하는 함수형 언어, Haskell</a> - 김재우 (2002)
+* <a href="https://gist.github.com/nattybear/c5e4f24a8242d88cf427568fb7cbe311">박준규님 Gist</a>
