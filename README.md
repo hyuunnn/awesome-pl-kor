@@ -81,6 +81,7 @@
     * [가리기](https://hjaem.info/articles/kr_2014_0) - [archive](https://web.archive.org/web/20240329021620/https://hjaem.info/articles/kr_2014_0)
     * [현실 세계 언어 파헤치기](https://hjaem.info/articles/kr_2015_0) - [archive](https://web.archive.org/web/20240329021607/https://hjaem.info/articles/kr_2015_0)
 * <a href="https://scalabook.hatemogi.com/intro/scala_for_java.html">Java 개발자를 위한 Scala 맛보기</a> - 김대현 (hatemogi)
+* <a href="https://github.com/Functional-JavaScript/FunctionalES">FunctionalES - ES6+, 함수형 프로그래밍, 비동기, 동시성 프로그래밍</a>
 * <a href="https://www.slideshare.net/namhyeonuk90/pl-1">구문론과 의미론 (정적 의미론까지)</a> - 남현욱 (2014)
 
 ## Videos
@@ -102,6 +103,7 @@
 * <a href="https://www.coursera.org/learn/scala2-functional-programming">Functional Programming Principles in Scala (Scala 2 version)</a> - Martin Odersky
 * <a href="https://www.coursera.org/learn/scala2-functional-program-design">Functional Program Design in Scala (Scala 2 version)</a> - Martin Odersky
 * <a href="https://www.coursera.org/learn/scala2-akka-reactive">Programming Reactive Systems (Scala 2 version)</a> - Martin Odersky
+* <a href="https://youtu.be/4sO0aWTd3yc">함수형 프로그래밍과 ES6+</a>
 
 ## Articles
 
