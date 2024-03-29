@@ -93,6 +93,7 @@
 * 프로그래밍언어 (서울대학교 3학년 과목, 이광근) - <a href="http://kwangkeunyi.snu.ac.kr/4190.310/mooc/">MOOC</a> (????), <a href="http://kwangkeunyi.snu.ac.kr/4190.310/24/">Course</a> (2024), <a href="https://ropas.snu.ac.kr/~dreameye/PL/">dreameye</a>
 * <a href="https://youtu.be/H6JxxWL6bJI">라인 백엔드 개발자의 함수형 프로그래밍 언어 실전 사용기 | 라인개발실록</a> - 김대현 (hatemogi)
 * <a href="https://youtu.be/H1izEfbg5QA">함수형 프로그래밍 3대장 경험기: 클로저, 스칼라, 하스켈 | 인프콘2023</a> - 김대현 (hatemogi)
+* <a href="https://www.youtube.com/playlist?list=PL8kmk2VivDmQZvx2N0vmCFkjEQ_pvpdsA">함수형 프로그래밍으로 도전하는 코딩 테스트 시리즈</a> - 김대현 (hatemogi)
 * <a href="https://www.youtube.com/playlist?list=PLZQAYIhEkMXHPq0bZekOp8oeGZPkqnNWi">모나드의 모든 것 - 1. The "ideal" Monad</a> - 이읗
 * <a href="https://www.youtube.com/playlist?list=PLZQAYIhEkMXFP4TkoVj19rTPNA4rxNII2">모나드의 모든 것 - 2. Monad in mathematics</a> - 이읗
 * <a href="https://youtu.be/jI4aMyqvpfQ">Monad란 무엇인가?</a> - 김동경 (2018)
