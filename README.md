@@ -85,6 +85,7 @@
 * <a href="https://www.slideshare.net/namhyeonuk90/pl-1">구문론과 의미론 (정적 의미론까지)</a> - 남현욱 (2014)
 * <a href="https://evan-moon.github.io/2024/01/30/category-theory-for-programmers-0-preface/">프로그래머를 위한 카테고리 이론</a> - 문동욱 번역 (2024)
 * <a href="https://github.com/sudopark/category-theory-for-programmers-study">프로그래머를 위한 카테고리 이론 스터디</a> - 박수도 번역 (2021)
+* <a href="https://github.com/jooyunghan/purescript-book">예제로 배우는 PureScript</a> - 한주영 번역 (2018)
 * <a href="https://github.com/bitemyapp/learnhaskell/blob/master/guide-ko.md">하스켈 학습 가이드 - learnhaskell</a>
 * <a href="https://koreascience.kr/article/JAKO201716556377652.pdf">Haskell의 펑터와 모나드 프로그래밍</a> - 변석우, 우균 (2017)
 
