@@ -85,7 +85,8 @@
 * <a href="https://www.slideshare.net/namhyeonuk90/pl-1">구문론과 의미론 (정적 의미론까지)</a> - 남현욱 (2014)
 * <a href="https://evan-moon.github.io/2024/01/30/category-theory-for-programmers-0-preface/">프로그래머를 위한 카테고리 이론</a> - 문동욱 번역 (2024)
 * <a href="https://github.com/sudopark/category-theory-for-programmers-study">프로그래머를 위한 카테고리 이론 스터디</a> - 박수도 번역 (2021)
-* <a href="https://mathmemo.tistory.com/category/Math/Category%20Theory">Category Theory<a> - mathmemo (2022)
+* <a href="https://mathmemo.tistory.com/category/Math/Category%20Theory">Category Theory</a> - mathmemo (2022)
+* <a href="https://theworldaswillandidea.tistory.com/category/Series/%ED%95%A8%EC%88%98%EC%A0%81%EC%9D%B8%2C%20%EB%84%88%EB%AC%B4%EB%82%98%20%ED%95%A8%EC%88%98%EC%A0%81%EC%9D%B8">함수적인, 너무나 함수적인</a> - theworldaswillandidea (2023)
 
 ## Videos
 
@@ -103,6 +104,7 @@
 * <a href="https://www.youtube.com/playlist?list=PLZQAYIhEkMXFP4TkoVj19rTPNA4rxNII2">모나드의 모든 것 - 2. Monad in mathematics</a> - 이읗
 * <a href="https://youtu.be/jI4aMyqvpfQ">Monad란 무엇인가?</a> - 김동경 (2018)
 * <a href="https://youtu.be/P4-wnlSJD4Q">합성, 커링, 모나드에 대해 훑어보는 함수형 프로그래밍 입문</a> - 저세상개발자
+* <a href="https://www.youtube.com/@StudentOfKyoto/videos">카테고리 이론 관련 영상</a> - CalcoloErgoSum
 * <a href="https://youtu.be/4sO0aWTd3yc">함수형 프로그래밍과 ES6+</a> - 유인동 (2019)
 * <a href="https://www.coursera.org/learn/scala2-functional-programming">Functional Programming Principles in Scala (Scala 2 version)</a> - Martin Odersky
 * <a href="https://www.coursera.org/learn/scala2-functional-program-design">Functional Program Design in Scala (Scala 2 version)</a> - Martin Odersky
