@@ -7,6 +7,7 @@
 * <a href="https://www.yes24.com/Product/Goods/83563381">함수형 언어 산책</a> - 이동규 (2019)
 * <a href="https://www.yes24.com/Product/Goods/29029252">함수형 사고</a> - Neal Ford (2016)
 * <a href="https://www.yes24.com/Product/Goods/124767865">함수형 프로그래밍</a> - Jack Widman (2024)
+* <a href="https://www.yes24.com/Product/Goods/82591994">순수 함수형 데이터 구조</a> - Chris Okasaki (2019)
 
 ### 프로그래밍언어론
 
@@ -58,6 +59,11 @@
 
 * <a href="https://www.yes24.com/Product/Goods/12155304">가장 쉬운 하스켈 책</a> - Miran Lipovača (2014)
 * <a href="https://www.yes24.com/Product/Goods/3479645">하스켈로 배우는 프로그래밍</a> - Graham Hutton (2009)
+
+### Reactive
+
+* <a href="https://www.yes24.com/Product/Goods/44020344">함수형 반응형 프로그래밍</a> - Stephen Blackheath, Anthony Jones (2017)
+* <a href="https://www.yes24.com/Product/Goods/85382032">RxJS 반응형 프로그래밍</a> - Paul P. Daniels, Luis Atencio (2019)
 
 ### ETC
 
