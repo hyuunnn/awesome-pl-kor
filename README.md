@@ -4,37 +4,66 @@
 
 * <a href="https://www.yes24.com/Product/Goods/122890814">타입으로 견고하게 다형성으로 유연하게</a> - 홍재민 (2023)
 * <a href="https://www.yes24.com/Product/Goods/11775130">해커와 화가</a> - Paul Graham (2014)
+* <a href="https://www.yes24.com/Product/Goods/83563381">함수형 언어 산책</a> - 이동규 (2019)
+* <a href="https://www.yes24.com/Product/Goods/29029252">함수형 사고</a> - Neal Ford (2016)
+* <a href="https://www.yes24.com/Product/Goods/124767865">함수형 프로그래밍</a> - Jack Widman (2024)
+
+### 프로그래밍언어론
+
 * <a href="https://www.yes24.com/Product/Goods/8305856">프로그래밍언어론</a> - Robert W. Sebesta (2012)
 * <a href="https://www.yes24.com/Product/Goods/97518038">프로그래밍언어론 원리와 실제</a> - 창병모 (2021)
 * <a href="https://www.yes24.com/Product/Goods/117380668">프로그래밍언어론</a> - 안기영, 손범준 (2023)
 * <a href="https://www.yes24.com/Product/Goods/4744920">프로그래밍 언어 개념</a> - 원유헌 (2011)
 * <a href="https://www.yes24.com/Product/Goods/2867564">프로그래밍 언어론 원리+유형</a> - Allen B. Tucker, Robert E. Noonan (2008)
-* <a href="https://www.yes24.com/Product/Goods/29029252">함수형 사고</a> - Neal Ford (2016)
-* <a href="https://www.yes24.com/Product/Goods/124767865">함수형 프로그래밍</a> - Jack Widman (2024)
-* <a href="https://www.yes24.com/Product/Goods/108748841">쏙쏙 들어오는 함수형 코딩</a> - Eric Normand (2022)
-* <a href="https://www.yes24.com/Product/Goods/56885507">함수형 자바스크립트 프로그래밍</a> - 유인동 (2017)
-* <a href="https://www.yes24.com/Product/Goods/58181696">함수형 자바스크립트</a> - Luis Atencio (2018)
-* <a href="https://www.yes24.com/Product/Goods/88371279">함수형 자바스크립트 입문 2/e</a> - Anto Aravinth, Srikanth Machiraju (2020)
-* <a href="https://www.yes24.com/Product/Goods/77125987">모던 자바 인 액션</a> - Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft (2019)
-* <a href="https://www.yes24.com/Product/Goods/125593970">함수형 프로그래밍 with 자바</a> - Ben Weidig (2024)
-* <a href="https://www.yes24.com/Product/Goods/84899008">코틀린으로 배우는 함수형 프로그래밍</a> - 조재용, 우명인 (2019)
-* <a href="https://www.yes24.com/Product/Goods/120236288">코틀린 함수형 프로그래밍</a> - Marco Vermeulen, Paul Chiusano, Runar Bjarnason (2023)
-* <a href="https://www.yes24.com/Product/Goods/16969986">스칼라로 배우는 함수형 프로그래밍</a> - Paul Chiusano, Runar Bjarnason (2015)
-* <a href="https://www.yes24.com/Product/Goods/96640057">Programming in Scala 4/e</a> - Martin Odersky (2021)
-* <a href="https://www.yes24.com/Product/Goods/12155304">가장 쉬운 하스켈 책</a> - Miran Lipovača (2014)
-* <a href="https://www.yes24.com/Product/Goods/3479645">하스켈로 배우는 프로그래밍</a> - Graham Hutton (2009)
-* <a href="https://www.yes24.com/Product/Goods/77275593">Functional Programming in C++</a> - Ivan Čukić (2019)
-* <a href="https://www.yes24.com/Product/Goods/59384637">모던 C++로 배우는 함수형 프로그래밍</a> - Wisnu Anggoro (2018)
-* <a href="https://www.yes24.com/Product/Goods/69669484">Functional C#</a> - Wisnu Anggoro (2019)
+
+### Lisp, Scheme, Clojure
+
 * <a href="https://www.yes24.com/Product/Goods/4853907">프로그램 디자인, 어떻게 할 것인가</a> (<a href="https://htdp.org/">HTDP</a>) - Matthias Felleisen (2011)
 * <a href="https://www.yes24.com/Product/Goods/23951885">컴퓨터 프로그램의 구조와 해석</a> (<a href="https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html">SICP</a>) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (2016)
-* <a href="https://www.yes24.com/Product/Goods/116469364">자바스크립트로 배우는 SICP</a> - Harold Abelson, Gerald Jay Sussman, Martin Henz, Tobias Wrigstad, Julie Sussman (2022)
-* <a href="https://www.yes24.com/Product/Goods/108025068">처음 배우는 엘릭서 프로그래밍</a> - Dave Thomas (2022)
 * <a href="https://www.yes24.com/Product/Goods/5968810">만들면서 배우는 리스프 프로그래밍</a> - Conrad Barski (2011)
 * <a href="https://www.yes24.com/Product/Goods/25537884">클로저 시작하기</a> - Carin Meier (2016)
 * <a href="https://www.yes24.com/Product/Goods/3907543">프로그래밍 클로저</a> - Stuart Halloway (2010)
 * <a href="https://www.yes24.com/Product/Goods/24555451">클로저 프로그래밍의 즐거움</a> - Michael Fogus, Chris Houser (2016)
 * <a href="https://www.yes24.com/Product/Goods/30669163">누구나 쉽게 배우는 클로저</a> - Daniel Higginbotham (2016)
+
+### Javascript
+
+* <a href="https://www.yes24.com/Product/Goods/56885507">함수형 자바스크립트 프로그래밍</a> - 유인동 (2017)
+* <a href="https://www.yes24.com/Product/Goods/58181696">함수형 자바스크립트</a> - Luis Atencio (2018)
+* <a href="https://www.yes24.com/Product/Goods/88371279">함수형 자바스크립트 입문 2/e</a> - Anto Aravinth, Srikanth Machiraju (2020)
+* <a href="https://www.yes24.com/Product/Goods/108748841">쏙쏙 들어오는 함수형 코딩</a> - Eric Normand (2022)
+* <a href="https://www.yes24.com/Product/Goods/116469364">자바스크립트로 배우는 SICP</a> - Harold Abelson, Gerald Jay Sussman, Martin Henz, Tobias Wrigstad, Julie Sussman (2022)
+
+### Java
+
+* <a href="https://www.yes24.com/Product/Goods/77125987">모던 자바 인 액션</a> - Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft (2019)
+* <a href="https://www.yes24.com/Product/Goods/125593970">함수형 프로그래밍 with 자바</a> - Ben Weidig (2024)
+
+### Kotlin
+
+* <a href="https://www.yes24.com/Product/Goods/84899008">코틀린으로 배우는 함수형 프로그래밍</a> - 조재용, 우명인 (2019)
+* <a href="https://www.yes24.com/Product/Goods/120236288">코틀린 함수형 프로그래밍</a> - Marco Vermeulen, Paul Chiusano, Runar Bjarnason (2023)
+
+### C++
+
+* <a href="https://www.yes24.com/Product/Goods/77275593">Functional Programming in C++</a> - Ivan Čukić (2019)
+* <a href="https://www.yes24.com/Product/Goods/59384637">모던 C++로 배우는 함수형 프로그래밍</a> - Wisnu Anggoro (2018)
+
+### Scala
+
+* <a href="https://www.yes24.com/Product/Goods/16969986">스칼라로 배우는 함수형 프로그래밍</a> - Paul Chiusano, Runar Bjarnason (2015)
+* <a href="https://www.yes24.com/Product/Goods/96640057">Programming in Scala 4/e</a> - Martin Odersky (2021)
+
+### Haskell
+
+* <a href="https://www.yes24.com/Product/Goods/12155304">가장 쉬운 하스켈 책</a> - Miran Lipovača (2014)
+* <a href="https://www.yes24.com/Product/Goods/3479645">하스켈로 배우는 프로그래밍</a> - Graham Hutton (2009)
+
+### ETC
+
+* <a href="https://www.yes24.com/Product/Goods/69669484">Functional C#</a> - Wisnu Anggoro (2019)
+* <a href="https://www.yes24.com/Product/Goods/73293439">Go로 배우는 함수형 프로그래밍</a> - Lex Sheehan (2019)
+* <a href="https://www.yes24.com/Product/Goods/108025068">처음 배우는 엘릭서 프로그래밍</a> - Dave Thomas (2022)
 
 ## Documents
 
