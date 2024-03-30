@@ -14,6 +14,7 @@
 * <a href="https://www.yes24.com/Product/Goods/108748841">쏙쏙 들어오는 함수형 코딩</a> - Eric Normand (2022)
 * <a href="https://www.yes24.com/Product/Goods/56885507">함수형 자바스크립트 프로그래밍</a> - 유인동 (2017)
 * <a href="https://www.yes24.com/Product/Goods/58181696">함수형 자바스크립트</a> - Luis Atencio (2018)
+* <a href="https://www.yes24.com/Product/Goods/88371279">함수형 자바스크립트 입문 2/e</a> - Anto Aravinth, Srikanth Machiraju (2020)
 * <a href="https://www.yes24.com/Product/Goods/77125987">모던 자바 인 액션</a> - Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft (2019)
 * <a href="https://www.yes24.com/Product/Goods/125593970">함수형 프로그래밍 with 자바</a> - Ben Weidig (2024)
 * <a href="https://www.yes24.com/Product/Goods/84899008">코틀린으로 배우는 함수형 프로그래밍</a> - 조재용, 우명인 (2019)
