@@ -86,6 +86,7 @@
 * <a href="https://evan-moon.github.io/2024/01/30/category-theory-for-programmers-0-preface/">프로그래머를 위한 카테고리 이론</a> - 문동욱 번역 (2024)
 * <a href="https://github.com/sudopark/category-theory-for-programmers-study">프로그래머를 위한 카테고리 이론 스터디</a> - 박수도 번역 (2021)
 * <a href="https://github.com/jooyunghan/purescript-book">예제로 배우는 PureScript</a> - 한주영 번역 (2018)
+* <a href="https://github.com/MostlyAdequate/mostly-adequate-guide-kr/tree/master">Mostly Adequate guide to functional programming 번역</a>
 * <a href="https://github.com/bitemyapp/learnhaskell/blob/master/guide-ko.md">하스켈 학습 가이드 - learnhaskell</a>
 * <a href="https://koreascience.kr/article/JAKO201716556377652.pdf">Haskell의 펑터와 모나드 프로그래밍</a> - 변석우, 우균 (2017)
 
@@ -131,6 +132,7 @@
 * <a href="https://www.notion.so/andrea9292/Haskell-84c22c4bb40a46438dc6757424827fca">진보하는 함수형 언어, Haskell</a> - 김재우 (2002)
 * <a href="https://johngrib.github.io/wiki/jargon/backus-naur-form/">배커스-나우르 표기법 (Backus-Naur form)</a> - 이종립 (2023)
 * <a href="https://mathmemo.tistory.com/category/Math/Category%20Theory">Category Theory</a> - mathmemo (2022)
+* <a href="https://teamdable.github.io/techblog/Moand-and-Functional-Architecture">모나드와 함수형 아키텍처</a> - 김성철 (2019)
 * <a href="https://theworldaswillandidea.tistory.com/category/Series/%ED%95%A8%EC%88%98%EC%A0%81%EC%9D%B8%2C%20%EB%84%88%EB%AC%B4%EB%82%98%20%ED%95%A8%EC%88%98%EC%A0%81%EC%9D%B8">함수적인, 너무나 함수적인</a> - theworldaswillandidea (2023)
 * <a href="https://overcurried.netlify.app/">서재원님 블로그</a>
 * <a href="https://enshahar.github.io/">오현석님 블로그</a>
