@@ -134,7 +134,12 @@
 * <a href="https://mathmemo.tistory.com/category/Math/Category%20Theory">Category Theory</a> - mathmemo (2022)
 * <a href="https://teamdable.github.io/techblog/Moand-and-Functional-Architecture">모나드와 함수형 아키텍처</a> - 김성철 (2019)
 * <a href="https://theworldaswillandidea.tistory.com/category/Series/%ED%95%A8%EC%88%98%EC%A0%81%EC%9D%B8%2C%20%EB%84%88%EB%AC%B4%EB%82%98%20%ED%95%A8%EC%88%98%EC%A0%81%EC%9D%B8">함수적인, 너무나 함수적인</a> - theworldaswillandidea (2023)
+* <a href="https://saengmotmi.netlify.app/javascript-study/2022-05-13-monad/">함수형 프로그래밍 & 모나드</a> - 오종택 (2022)
+* 함수형 프로그래밍 (<a href="https://uzihoon.com/post/4de52810-5201-11ea-a189-4bd78d8bfce2">1</a>, <a href="https://uzihoon.com/post/8cfd1d30-5249-11ea-82a2-e3de4cde3cdc">2</a>, <a href="https://uzihoon.com/post/5e15d7e0-538f-11ea-95fe-0317987f9fc8">3</a>) - UZILOG (2020)
 * <a href="https://overcurried.netlify.app/">서재원님 블로그</a>
 * <a href="https://enshahar.github.io/">오현석님 블로그</a>
 * <a href="https://woogyun.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%2C%20%ED%92%80%EC%96%B4%EA%B7%B8%EB%A6%BC">우균 교수님 블로그</a>
+* <a href="https://edykim.com/ko/post/">김용균님 블로그</a>
+* <a href="https://coding-food-court.tistory.com/category/%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D">코딩 맛집 블로그</a>
+* <a href="https://tech.kakao.com/tag/functional-programming/">카카오 기술 블로그</a>
 * <a href="https://gist.github.com/nattybear/c5e4f24a8242d88cf427568fb7cbe311">박준규님 Gist</a>
