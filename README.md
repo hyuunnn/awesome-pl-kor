@@ -6,6 +6,7 @@
 * <a href="https://www.yes24.com/Product/Goods/11775130">해커와 화가</a> - Paul Graham (2014)
 * <a href="https://www.yes24.com/Product/Goods/83563381">함수형 언어 산책</a> - 이동규 (2019)
 * <a href="https://www.yes24.com/Product/Goods/17568694">브루스 테이트의 세븐 랭귀지</a> - Bruce Tate (2015)
+* <a href="https://www.yes24.com/Product/Goods/12204890">폴리글랏 프로그래밍</a> - 임백준 (2014)
 * <a href="https://www.yes24.com/Product/Goods/29029252">함수형 사고</a> - Neal Ford (2016)
 * <a href="https://www.yes24.com/Product/Goods/124767865">함수형 프로그래밍</a> - Jack Widman (2024)
 * <a href="https://www.yes24.com/Product/Goods/82591994">순수 함수형 데이터 구조</a> - Chris Okasaki (2019)
@@ -179,7 +180,6 @@
 * <a href="https://eatchangmyeong.github.io/2022/12/04/parse-don-t-validate.html">검증하지 말고 파싱하라</a> - 잇창명 번역 (2022)
 * <a href="https://donghwi.dev/no-dynamic-type-systems-are-not-inherently-more-open/">동적 타입 시스템은 더 개방적인 시스템이 아닙니다</a> - 서동휘 번역 (2020)
 * <a href="https://damhiya.github.io/posts/Functor-and-Variance.html">Functor and variance</a>, <a href="https://damhiya.github.io/posts/Curry's-paradox.html">Curry's paradox</a> - damhiya
-* <a href="https://www.notion.so/andrea9292/Haskell-84c22c4bb40a46438dc6757424827fca">진보하는 함수형 언어, Haskell</a> - 김재우 (2002)
 * <a href="https://johngrib.github.io/wiki/jargon/backus-naur-form/">배커스-나우르 표기법 (Backus-Naur form)</a> - 이종립 (2023)
 * <a href="https://mathmemo.tistory.com/category/Math/Category%20Theory">Category Theory</a> - mathmemo (2022)
 * <a href="https://teamdable.github.io/techblog/Moand-and-Functional-Architecture">모나드와 함수형 아키텍처</a> - 김성철 (2019)
@@ -188,6 +188,11 @@
 * 함수형 프로그래밍 (<a href="https://uzihoon.com/post/4de52810-5201-11ea-a189-4bd78d8bfce2">1</a>, <a href="https://uzihoon.com/post/8cfd1d30-5249-11ea-82a2-e3de4cde3cdc">2</a>, <a href="https://uzihoon.com/post/5e15d7e0-538f-11ea-95fe-0317987f9fc8">3</a>) - UZILOG (2020)
 * <a href="https://panty.run/why-haskell-is-so-difficult/">하스켈, 왜 이렇게 어려운거야?</a> - murry (2020)
 * <a href="https://1ambda.github.io/haskell/">하스켈로 배우는 함수형 언어</a>, <a href="https://1ambda.github.io/scala/">Scala</a> - 박훈 (1ambda)
+* <a href="https://www.notion.so/andrea9292/Haskell-84c22c4bb40a46438dc6757424827fca">진보하는 함수형 언어, Haskell</a> - 김재우 (2002)
+* <a href="https://xtendo.org/haskell/ko/why">왜 하스켈인가?</a> - 엑스티
+* <a href="https://woogyun.tistory.com/744">하스켈은 뭐에 쓰나요?</a> - 우균 (2023)
+* <a href="https://lazyswamp.tistory.com/entry/functorsapplicativesandmonadsinpictures">그림으로 설명하는 하스켈 펑터, 어플리커티브, 모나트</a> - 최광훈 (2015)
+* <a href="https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS5889059572">Haskell 소개(1) - Why Haskell</a> - 김현우 (2007)
 * <a href="https://overcurried.netlify.app/">서재원님 블로그</a>
 * <a href="https://enshahar.github.io/">오현석님 블로그</a>
 * <a href="https://woogyun.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%2C%20%ED%92%80%EC%96%B4%EA%B7%B8%EB%A6%BC">우균 교수님 블로그</a>
