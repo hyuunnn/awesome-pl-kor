@@ -5,6 +5,7 @@
 * <a href="https://www.yes24.com/Product/Goods/122890814">타입으로 견고하게 다형성으로 유연하게</a> - 홍재민 (2023)
 * <a href="https://www.yes24.com/Product/Goods/11775130">해커와 화가</a> - Paul Graham (2014)
 * <a href="https://www.yes24.com/Product/Goods/83563381">함수형 언어 산책</a> - 이동규 (2019)
+* <a href="https://www.yes24.com/Product/Goods/17568694">브루스 테이트의 세븐 랭귀지</a> - Bruce Tate (2015)
 * <a href="https://www.yes24.com/Product/Goods/29029252">함수형 사고</a> - Neal Ford (2016)
 * <a href="https://www.yes24.com/Product/Goods/124767865">함수형 프로그래밍</a> - Jack Widman (2024)
 * <a href="https://www.yes24.com/Product/Goods/82591994">순수 함수형 데이터 구조</a> - Chris Okasaki (2019)
@@ -71,7 +72,9 @@
 * <a href="https://www.yes24.com/Product/Goods/69669484">Functional C#</a> - Wisnu Anggoro (2019)
 * <a href="https://www.yes24.com/Product/Goods/73293439">Go로 배우는 함수형 프로그래밍</a> - Lex Sheehan (2019)
 * <a href="https://www.yes24.com/Product/Goods/108025068">처음 배우는 엘릭서 프로그래밍</a> - Dave Thomas (2022)
+* <a href="https://www.yes24.com/Product/Goods/2966601">프로그래밍 얼랭</a> - Joe Armstrong (2008)
 * <a href="https://www.yes24.com/Product/Goods/86152542">인공지능 함수 OCaml 프로그래밍</a> - John Whitington (2019)
+* <a href="https://www.yes24.com/Product/Goods/170761">그누 이맥스 시작하기</a> - Debra Cameron, Eric Raymond (2000)
 
 ## Documents
 
@@ -132,6 +135,7 @@
 * <a href="https://xtendo.org/ko/monad">모나드 괴담</a> - 엑스티 (2015)
 * <a href="https://jbl428.github.io/learn-haskell-blog-generator/">Learn Haskell by building a blog generator 한국어 번역</a>
 * <a href="https://docs.python.org/ko/3/howto/functional.html">함수형 프로그래밍 HOWTO - Python</a>
+* <a href="https://kpug.github.io/fp-gitbook/">fp-gitbook</a> - kpug (2017)
 
 ## Videos
 
@@ -145,6 +149,7 @@
 * <a href="https://youtu.be/H6JxxWL6bJI">라인 백엔드 개발자의 함수형 프로그래밍 언어 실전 사용기 | 라인개발실록</a> - 김대현 (hatemogi)
 * <a href="https://youtu.be/H1izEfbg5QA">함수형 프로그래밍 3대장 경험기: 클로저, 스칼라, 하스켈 | 인프콘2023</a> - 김대현 (hatemogi)
 * <a href="https://www.youtube.com/playlist?list=PL8kmk2VivDmQZvx2N0vmCFkjEQ_pvpdsA">함수형 프로그래밍으로 도전하는 코딩 테스트 시리즈</a> - 김대현 (hatemogi)
+* <a href="https://www.youtube.com/watch?v=ydh3SKNlfjo">순수 함수형 프론트엔드 프로그래밍 언어 Elm 가이드 3시간</a> - 김대현 (hatemogi)
 * <a href="https://www.youtube.com/playlist?list=PLZQAYIhEkMXHPq0bZekOp8oeGZPkqnNWi">모나드의 모든 것 - 1. The "ideal" Monad</a> - 이읗
 * <a href="https://www.youtube.com/playlist?list=PLZQAYIhEkMXFP4TkoVj19rTPNA4rxNII2">모나드의 모든 것 - 2. Monad in mathematics</a> - 이읗
 * <a href="https://youtu.be/jI4aMyqvpfQ">Monad란 무엇인가?</a> - 김동경 (2018)
