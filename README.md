@@ -167,6 +167,7 @@
 * <a href="http://kwangkeunyi.snu.ac.kr/functional-anger.html">제대로 디자인된 프로그래밍 언어의 쓰임새</a> - 이광근 (2011)
 * <a href="http://kwangkeunyi.snu.ac.kr/functional.html">functional language가 뭐죠?</a> - 이광근 (1999)
 * <a href="https://csrc.kaist.ac.kr/blog/2020/08/12/%EB%B0%94%EC%9D%B4%EB%84%88%EB%A6%AC-%EB%B6%84%EC%84%9D%EC%97%90-%EC%9B%AC-fsharp/">바이너리 분석에 웬 F#?</a> - 차상길 (2020)
+* <a href="https://engineering.linecorp.com/ko/blog/functional-programing-language-and-line-game-cloud">함수형 프로그래밍 언어에 대한 고찰</a> - 김부성, 이재호 (2018)
 * <a href="https://parksb.github.io/article/40.html">함수형 프로그래밍의 설득력</a> - 박성범 (2022)
 * <a href="https://github.com/parksb/papers-i-love/blob/main/why-functional-programming-matters.md">함수형 프로그래밍이 중요한 이유</a> - John Hughes (1990)
 * <a href="https://lionhairdino.github.io/posts/2021-05-07-chef.html">함수형 시작과 아마도 끝</a>, <a href="https://lionhairdino.github.io/posts/2020-06-18-Celebrity.html">이 바닥 셀럽분들</a>, <a href="https://lionhairdino.github.io/posts/2024-01-27-HaskellBeginner.html">2024년 자료 추천</a> - <a href="https://lionhairdino.github.io/">lionhairdino</a>
