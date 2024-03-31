@@ -193,4 +193,5 @@
 * <a href="https://edykim.com/ko/post/">김용균님 블로그</a>
 * <a href="https://coding-food-court.tistory.com/category/%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D">코딩 맛집 블로그</a>
 * <a href="https://tech.kakao.com/tag/functional-programming/">카카오 기술 블로그</a>
+* <a href="https://bangjunyoung.github.io/">방준영님 블로그</a>
 * <a href="https://gist.github.com/nattybear/c5e4f24a8242d88cf427568fb7cbe311">박준규님 Gist</a>
