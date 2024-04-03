@@ -151,6 +151,7 @@
 * <a href="https://youtu.be/H1izEfbg5QA">함수형 프로그래밍 3대장 경험기: 클로저, 스칼라, 하스켈 | 인프콘2023</a> - 김대현 (hatemogi)
 * <a href="https://www.youtube.com/playlist?list=PL8kmk2VivDmQZvx2N0vmCFkjEQ_pvpdsA">함수형 프로그래밍으로 도전하는 코딩 테스트 시리즈</a> - 김대현 (hatemogi)
 * <a href="https://www.youtube.com/watch?v=ydh3SKNlfjo">순수 함수형 프론트엔드 프로그래밍 언어 Elm 가이드 3시간</a> - 김대현 (hatemogi)
+* <a href="https://youtu.be/Rjyf_dELAeg">[OKKY 3월 세미나] Elixir: 대용량 분산 웹개발의 혁명</a> - 이재철
 * <a href="https://youtu.be/lAaD-6OQSHE">liftIO 2022 : 웹 개발의 모순과 Elixir가 특효약인 이유</a> - 이재철
 * <a href="https://www.youtube.com/playlist?list=PLOdBZFDkhfV00trSo0SEdHMTaLruDNTzV">TECHㅣ컨퍼런스</a>, <a href="https://www.youtube.com/playlist?list=PLOdBZFDkhfV1Ltml73FGrG3XoS7I02ADx">TECH l 월간FP(Functional Programming)</a> - 그린랩스
 * <a href="https://www.youtube.com/playlist?list=PLZQAYIhEkMXHPq0bZekOp8oeGZPkqnNWi">모나드의 모든 것 - 1. The "ideal" Monad</a> - 이읗
