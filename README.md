@@ -137,6 +137,7 @@
 - <a href="https://jbl428.github.io/learn-haskell-blog-generator/">Learn Haskell by building a blog generator 한국어 번역</a>
 - <a href="https://docs.python.org/ko/3/howto/functional.html">함수형 프로그래밍 HOWTO - Python</a>
 - <a href="https://kpug.github.io/fp-gitbook/">fp-gitbook</a> - kpug (2017)
+- <a href="https://plwiki.github.io/">PL wiki</a>
 
 ## Videos
 
