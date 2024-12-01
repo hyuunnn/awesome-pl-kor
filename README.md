@@ -190,6 +190,7 @@
 - <a href="https://saengmotmi.netlify.app/javascript-study/2022-05-13-monad/">함수형 프로그래밍 & 모나드</a> - 오종택 (2022)
 - 함수형 프로그래밍 (<a href="https://uzihoon.com/post/4de52810-5201-11ea-a189-4bd78d8bfce2">1</a>, <a href="https://uzihoon.com/post/8cfd1d30-5249-11ea-82a2-e3de4cde3cdc">2</a>, <a href="https://uzihoon.com/post/5e15d7e0-538f-11ea-95fe-0317987f9fc8">3</a>) - UZILOG (2020)
 - <a href="https://panty.run/why-haskell-is-so-difficult/">하스켈, 왜 이렇게 어려운거야?</a> - murry (2020) - <a href="https://web.archive.org/web/20240225052317/https://panty.run/why-haskell-is-so-difficult/">archive</a>
+- <a href="https://bbconfwebdav.vulcan.site/bbconf/2024-summer/%eb%a8%b8%eb%a6%ac_LispStory.pdf">신비롭고 아름다운 Lisp 이야기</a> - 이정연
 - <a href="https://1ambda.github.io/haskell/">하스켈로 배우는 함수형 언어</a>, <a href="https://1ambda.github.io/scala/">Scala</a> - 박훈 (1ambda)
 - <a href="https://overcurried.netlify.app/">서재원님 블로그</a>
 - <a href="https://enshahar.github.io/">오현석님 블로그</a>
