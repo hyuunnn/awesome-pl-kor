@@ -134,6 +134,7 @@
 - <a href="https://koreascience.kr/article/JAKO201716556377652.pdf">Haskell의 펑터와 모나드 프로그래밍</a> - 변석우, 우균 (2017)
 - <a href="https://xtendo.org/ko/monad">모나드 괴담</a> - 엑스티 (2015)
 - <a href="https://github.com/eunmin/getting-started-monad">모나드 첫걸음</a> - eunmin (2019)
+- <a href="https://github.com/attltb/Lecture-Monad">Lecture-Monad</a> - 이읗
 - <a href="https://jbl428.github.io/learn-haskell-blog-generator/">Learn Haskell by building a blog generator 한국어 번역</a>
 - <a href="https://docs.python.org/ko/3/howto/functional.html">함수형 프로그래밍 HOWTO - Python</a>
 - <a href="https://kpug.github.io/fp-gitbook/">fp-gitbook</a> - kpug (2017)
