@@ -129,6 +129,7 @@
 - <a href="https://github.com/jooyunghan/purescript-book">예제로 배우는 PureScript</a> - 한주영 번역 (2018)
 - <a href="https://github.com/MostlyAdequate/mostly-adequate-guide-kr/tree/master">Mostly Adequate guide to functional programming 번역</a>
 - <a href="https://github.com/bitemyapp/learnhaskell/blob/master/guide-ko.md">하스켈 학습 가이드 - learnhaskell</a>
+- <a href="https://github.com/liganega/ProgInHaskell">하스켈 프로그래밍: 논리와 수학과 프로그래밍의 연관성</a>
 - <a href="https://wikidocs.net/book/204">WikibooksHaskell</a> - 이민석 (codeonwort) 번역 (2023)
 - <a href="https://wiki.haskell.org/Ko/Haskell">Haskell wiki ko</a>
 - <a href="https://koreascience.kr/article/JAKO201716556377652.pdf">Haskell의 펑터와 모나드 프로그래밍</a> - 변석우, 우균 (2017)
