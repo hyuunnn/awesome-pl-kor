@@ -61,6 +61,7 @@
 - <a href="https://www.yes24.com/Product/Goods/12155304">가장 쉬운 하스켈 책</a> - Miran Lipovača (2014)
 - <a href="https://www.yes24.com/Product/Goods/3479645">하스켈로 배우는 프로그래밍</a> - Graham Hutton (2009)
 - <a href="https://www.yes24.com/Product/Goods/19842361">하스켈로 배우는 함수형 프로그래밍</a> - Noriyuki Okawa (2015)
+- <a href="https://github.com/seoul-haskell-forest/workshop">하스켈 개발 환경 준비하기</a>
 
 ### Reactive
 
