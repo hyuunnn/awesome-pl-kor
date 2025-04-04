@@ -184,7 +184,7 @@
 - <a href="https://evan-moon.github.io/2020/01/27/safety-function-composition/">어떻게 하면 안전하게 함수를 합성할 수 있을까?</a> - 문동욱 (2020)
 - <a href="https://eatchangmyeong.github.io/2022/12/04/parse-don-t-validate.html">검증하지 말고 파싱하라</a> - 잇창명 번역 (2022)
 - <a href="https://donghwi.dev/no-dynamic-type-systems-are-not-inherently-more-open/">동적 타입 시스템은 더 개방적인 시스템이 아닙니다</a> - 서동휘 번역 (2020)
-- <a href="https://damhiya.github.io/posts/Functor-and-Variance.html">Functor and variance</a>, <a href="https://damhiya.github.io/posts/Curry's-paradox.html">Curry's paradox</a> - damhiya
+- <a href="https://github.com/damhiya/damhiya.github.io/blob/main/docs/posts/Functor-and-Variance.html">Functor and variance</a>, <a href="https://github.com/damhiya/damhiya.github.io/blob/main/docs/posts/Curry's-paradox.html">Curry's paradox</a> - damhiya
 - <a href="https://www.notion.so/andrea9292/Haskell-84c22c4bb40a46438dc6757424827fca">진보하는 함수형 언어, Haskell</a> - 김재우 (2002)
 - <a href="https://johngrib.github.io/wiki/jargon/backus-naur-form/">배커스-나우르 표기법 (Backus-Naur form)</a> - 이종립 (2023)
 - <a href="https://mathmemo.tistory.com/category/Math/Category%20Theory">Category Theory</a> - mathmemo (2022)
