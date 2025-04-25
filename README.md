@@ -163,7 +163,7 @@
 - <a href="https://youtu.be/P4-wnlSJD4Q">합성, 커링, 모나드에 대해 훑어보는 함수형 프로그래밍 입문</a> - 저세상개발자
 - <a href="https://www.youtube.com/@StudentOfKyoto/videos">카테고리 이론 관련 영상</a> - CalcoloErgoSum
 - <a href="https://youtu.be/4sO0aWTd3yc">함수형 프로그래밍과 ES6+</a> - 유인동 (2019)
-- <a href="https://www.youtube.com/playlist?list=PLB2X8kWsL7HvXXRbwfbgNs8qbjPEmS_Ak">20세기 대한민국컴퓨터개발역사워크숍 X, 프로그래밍언어연구회 주관</a>
+- <a href="https://www.youtube.com/playlist?list=PLB2X8kWsL7HvXXRbwfbgNs8qbjPEmS_Ak">20세기 대한민국컴퓨터개발역사워크숍 X</a> - 프로그래밍언어연구회 주관
 - <a href="https://www.coursera.org/learn/scala2-functional-programming">Functional Programming Principles in Scala (Scala 2 version)</a> - Martin Odersky
 - <a href="https://www.coursera.org/learn/scala2-functional-program-design">Functional Program Design in Scala (Scala 2 version)</a> - Martin Odersky
 - <a href="https://www.coursera.org/learn/scala2-akka-reactive">Programming Reactive Systems (Scala 2 version)</a> - Martin Odersky
