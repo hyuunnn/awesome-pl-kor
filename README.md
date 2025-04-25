@@ -145,7 +145,7 @@
 ## Videos
 
 - <a href="https://www.youtube.com/playlist?list=PLlaaKSQo-dsWtYqmSR237-eXbTrLRoWmQ">프로그래밍언어론</a> - 우균의 풀어그림 (2020)
-- <a href="https://www.youtube.com/playlist?list=PLhbaMvGyp99982CpQoam-z9tqJ6qi_hw0">프로그래밍언어론 (EOPL)</a> - 최광훈
+- <a href="https://www.youtube.com/playlist?list=PLhbaMvGyp99982CpQoam-z9tqJ6qi_hw0">프로그래밍언어론 (EOPL)</a> - 최광훈 (<a href="https://github.com/kwanghoon/Lecture_EOPL">Github</a>)
 - <a href="https://www.youtube.com/playlist?list=PLhbaMvGyp99_NphAX7k5OqcM1fXLZne8t">Haskell MOOC</a> - 최광훈
 - <a href="https://www.youtube.com/playlist?list=PLZpTeDBqYB-JWbzL_DkZocLKaSDUraJ4T">Tezos Blockchain Camp - 프로그래밍 원리</a> (2019)
 - <a href="https://www.youtube.com/playlist?list=PLZpTeDBqYB-JalhMRHEEHFq3nQXaUnaI8">Tezos Blockchain Camp - Ocaml 프로그래밍</a> (2019)
