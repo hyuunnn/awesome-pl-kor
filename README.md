@@ -53,6 +53,7 @@
 
 - <a href="https://www.yes24.com/Product/Goods/77275593">Functional Programming in C++</a> - Ivan Čukić (2019)
 - <a href="https://www.yes24.com/Product/Goods/59384637">모던 C++로 배우는 함수형 프로그래밍</a> - Wisnu Anggoro (2018)
+- <a href="https://www.yes24.com/product/goods/113417980">C++ 함수형 프로그래밍</a> - Alexandru Bolboaca (2022)
 
 ### Scala
 
