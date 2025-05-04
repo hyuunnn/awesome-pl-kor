@@ -110,6 +110,7 @@
   - [매개변수에 의한 다형성](https://hjaem.info/articles/kr_22_5) - [archive](https://web.archive.org/web/20240329005220/https://hjaem.info/articles/kr_22_5)
   - [서브타입에 의한 다형성](https://hjaem.info/articles/kr_23_2) - [archive](https://web.archive.org/web/20240329005244/https://hjaem.info/articles/kr_23_2)
   - [이름 없이 식 표현하기](https://hjaem.info/articles/kr_24_2) - [archive](https://web.archive.org/web/20240329005315/https://hjaem.info/articles/kr_24_2)
+  - [계속의 일차 표현](https://hjaem.info/articles/kr_25_0) - [archive](https://web.archive.org/web/20250504123731/https://hjaem.info/articles/kr_25_0)
 - [프로그래밍 언어의 기본 원리](https://hjaem.info/articles/kr_2000_0) ([archive](https://web.archive.org/web/20240329020210/https://hjaem.info/articles/kr_2000_0)) - 홍재민
   - [서문](https://hjaem.info/articles/kr_2001_0) - [archive](https://web.archive.org/web/20240329020345/https://hjaem.info/articles/kr_2001_0)
   - [들어가며](https://hjaem.info/articles/kr_2002_3) - [archive](https://web.archive.org/web/20240329020547/https://hjaem.info/articles/kr_2002_3)
