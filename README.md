@@ -9,6 +9,7 @@
 - <a href="https://www.yes24.com/Product/Goods/29029252">함수형 사고</a> - Neal Ford (2016)
 - <a href="https://www.yes24.com/Product/Goods/124767865">함수형 프로그래밍</a> - Jack Widman (2024)
 - <a href="https://www.yes24.com/Product/Goods/82591994">순수 함수형 데이터 구조</a> - Chris Okasaki (2019)
+- <a href="https://www.yes24.com/product/goods/145367977">멀티패러다임 프로그래밍</a> - 유인동 (2025)
 
 ### 프로그래밍언어론
 
@@ -45,6 +46,8 @@
 
 - <a href="https://www.yes24.com/Product/Goods/84899008">코틀린으로 배우는 함수형 프로그래밍</a> - 조재용, 우명인 (2019)
 - <a href="https://www.yes24.com/Product/Goods/120236288">코틀린 함수형 프로그래밍</a> - Marco Vermeulen, Paul Chiusano, Runar Bjarnason (2023)
+- <a href="https://www.yes24.com/product/goods/132756874">코틀린 아카데미 : 함수형 프로그래밍</a> - Marcin Moskała (2024)
+- <a href="https://www.yes24.com/product/goods/140183242">객체에서 함수로</a> - Uberto Barbini (2024)
 
 ### C++
 
