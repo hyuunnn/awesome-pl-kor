@@ -146,6 +146,7 @@
 - <a href="https://docs.python.org/ko/3/howto/functional.html">함수형 프로그래밍 HOWTO - Python</a>
 - <a href="https://kpug.github.io/fp-gitbook/">fp-gitbook</a> - kpug (2017)
 - <a href="https://plwiki.github.io/">PL wiki</a>
+- <a href="https://github.com/prosyslab/pl-wiki/wiki">pl-wiki</a> - prosyslab(KAIST 프로그래밍 시스템 연구실)
 
 ## Videos
 
