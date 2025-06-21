@@ -174,7 +174,7 @@
 - <a href="https://www.coursera.org/learn/scala2-functional-programming">Functional Programming Principles in Scala (Scala 2 version)</a> - Martin Odersky
 - <a href="https://www.coursera.org/learn/scala2-functional-program-design">Functional Program Design in Scala (Scala 2 version)</a> - Martin Odersky
 - <a href="https://www.coursera.org/learn/scala2-akka-reactive">Programming Reactive Systems (Scala 2 version)</a> - Martin Odersky
-- 프로그래밍 언어 <a href="https://www.coursera.org/learn/programming-languages-1">I</a>, <a href="https://www.coursera.org/learn/programming-languages2">II</a> - 류석영
+- Programming Languages <a href="https://www.coursera.org/learn/programming-languages-1">I</a>, <a href="https://www.coursera.org/learn/programming-languages2">II</a> - 류석영
 
 ## Articles
 
